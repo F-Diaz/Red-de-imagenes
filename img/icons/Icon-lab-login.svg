@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="428" height="94.276" viewBox="0 0 428 94.276">
+  <g id="Grupo_4" data-name="Grupo 4" transform="translate(-39 -25.52)">
+    <g id="Grupo_1" data-name="Grupo 1" transform="translate(94.758 43.291)">
+      <text id="PHOTO" transform="translate(0.242 60.505)" fill="#fff" font-size="63" font-family="Montserrat-Bold, Montserrat" font-weight="700"><tspan x="0" y="0">PHOTO</tspan></text>
+      <text id="LAB" transform="translate(242.242 60.505)" fill="#fff" font-size="63" font-family="Montserrat-Italic, Montserrat" font-style="italic"><tspan x="0" y="0">LAB</tspan></text>
+    </g>
+    <path id="Icon_metro-lab" data-name="Icon metro-lab" d="M57.5,47.391,37.737,16.345V3.77h2a1.95,1.95,0,0,0,2-1.885,1.95,1.95,0,0,0-2-1.885H19.743a1.95,1.95,0,0,0-2,1.885,1.95,1.95,0,0,0,2,1.885h2V16.345L1.981,47.391C-2.545,54.5.95,60.323,9.747,60.323H49.733c8.8,0,12.291-5.819,7.765-12.932ZM12.811,37.7l12.931-20.32V3.77h8V17.382L46.669,37.7Z" transform="matrix(0.857, 0.515, -0.515, 0.857, 70.069, 25.52)" fill="#fff"/>
+  </g>
+</svg>

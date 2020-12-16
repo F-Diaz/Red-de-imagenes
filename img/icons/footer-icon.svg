@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="316" height="89.294" viewBox="0 0 316 89.294">
+  <g id="Grupo_29" data-name="Grupo 29" transform="translate(-59 -1610.706)">
+    <g id="Grupo_6" data-name="Grupo 6" transform="translate(20 1585.185)">
+      <g id="Grupo_1" data-name="Grupo 1" transform="translate(80.775 39.067)">
+        <text id="PHOTO" transform="translate(0.225 44.748)" fill="#fff" font-size="46" font-family="Montserrat-Bold, Montserrat" font-weight="700"><tspan x="0" y="0">PHOTO</tspan></text>
+        <text id="LAB" transform="translate(176.225 44.748)" fill="#fff" font-size="46" font-family="Montserrat-Italic, Montserrat" font-style="italic"><tspan x="0" y="0">LAB</tspan></text>
+      </g>
+      <path id="Icon_metro-lab" data-name="Icon metro-lab" d="M42.446,34.985,27.858,12.066V2.783h1.476A1.44,1.44,0,0,0,30.81,1.392,1.44,1.44,0,0,0,29.334,0H14.575A1.44,1.44,0,0,0,13.1,1.392a1.44,1.44,0,0,0,1.476,1.392h1.476v9.283L1.463,34.985C-1.878,40.236.7,44.532,7.2,44.532H36.714c6.494,0,9.074-4.3,5.733-9.546ZM9.457,27.832l9.546-15V2.783h5.9V12.832l9.546,15Z" transform="matrix(0.857, 0.515, -0.515, 0.857, 61.936, 25.52)" fill="#fff"/>
+    </g>
+    <text id="Copyright_2020_PHOTOLAB._Todos_los_derechos_reservados." data-name="Copyright © 2020 PHOTOLAB. Todos los derechos reservados." transform="translate(59 1681)" fill="#fff" font-size="10" font-family="Montserrat-Medium, Montserrat" font-weight="500"><tspan x="0" y="10">Copyright © 2020 PHOTOLAB. Todos los derechos reservados.</tspan></text>
+  </g>
+</svg>

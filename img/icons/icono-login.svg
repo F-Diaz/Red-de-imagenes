@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="30.288" height="44" viewBox="0 0 30.288 44">
+  <g id="Grupo_3" data-name="Grupo 3" transform="translate(-1292 -33)">
+    <path id="Icon_material-account-circle" data-name="Icon material-account-circle" d="M18.144,3A15.144,15.144,0,1,0,33.288,18.144,15.15,15.15,0,0,0,18.144,3Zm0,4.543A4.543,4.543,0,1,1,13.6,12.087,4.537,4.537,0,0,1,18.144,7.543Zm0,21.5a10.9,10.9,0,0,1-9.087-4.876c.045-3.014,6.058-4.664,9.087-4.664,3.014,0,9.041,1.651,9.087,4.664a10.9,10.9,0,0,1-9.087,4.876Z" transform="translate(1289 30)" fill="#fffefe"/>
+    <text id="Login" transform="translate(1295 75)" fill="#ebebeb" font-size="8" font-family="Montserrat-SemiBold, Montserrat" font-weight="600"><tspan x="0" y="0">Login</tspan></text>
+  </g>
+</svg>
